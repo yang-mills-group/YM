@@ -2,16 +2,18 @@
 
 ## [Read the October submission assessment (PDF)](docs/assessment-1.pdf)
 
-This repository collects pure Yang–Mills submissions, the group's independent checks, and its assessments. The first package concerns **OpenAI's submission of 28 October 2026**. The assessment is dated **10 November 2026**. In our opinion, this submission proves that a relativistic quantum field theory satisfying the Wightman axioms can be constructed as a scaling limit of four-dimensional Wilson lattice gauge theory for any simple compact gauge group. It does not prove that the infinite-volume limit is unique or that there is a mass gap.
+This repository collects pure Yang–Mills submissions, the group's independent checks, and its assessments. The first package concerns **OpenAI's submission of 27 October 2026**. The assessment is dated **10 November 2026**. In our opinion, this submission proves that a relativistic quantum field theory satisfying the Wightman axioms can be constructed as a scaling limit of four-dimensional Wilson lattice gauge theory for any simple compact gauge group. It does not prove that the infinite-volume limit is unique or that there is a mass gap.
 
 Each submission has a complete package containing the original source, our checks, reproduction instructions, and dated evidence. This lets readers inspect a submission on its own and compare it with later submissions. The original material and the group's additions remain distinct.
 
 ## Results and assessments
 
+Updated 25 November 2026. Submission dates follow the [correspondence record](https://github.com/yang-mills-group/submissions/blob/main/docs/submission-dates.md); the October archive retains its original filename date.
+
 | Submission | Assessment | Formal checks and evidence |
 |---|---|---|
-| [OpenAI, 28 October 2026](submissions/openai-20261028/README.md) | [Assessment 1 (PDF)](docs/assessment-1.pdf) | [Check scope](submissions/openai-20261028/docs/checks.md) · [dated results](submissions/openai-20261028/evidence/README.md) · [rerun instructions](submissions/openai-20261028/docs/rerun.md) |
-| OpenAI, 4 November 2026 | work in progress | — |
+| [OpenAI, 27 October 2026](submissions/openai-20261028/README.md) | [Assessment 1 (PDF)](docs/assessment-1.pdf) | [Check scope](submissions/openai-20261028/docs/checks.md) · [dated results](submissions/openai-20261028/evidence/README.md) · [rerun instructions](submissions/openai-20261028/docs/rerun.md) |
+| [OpenAI, 4 November 2026](https://github.com/yang-mills-group/OpenAI-YM-20261104) | [Final November assessment, 25 November 2026](https://github.com/yang-mills-group/submissions/blob/main/docs/assessments/november-4-assessment.pdf) | [Detailed reports and checks](https://github.com/yang-mills-group/submissions/tree/main/reviews/openai-20261104) |
 | Alpöge and Sussman, 15 November 2026 | work in progress | — |
 
 The October package includes the original Lean sources, the combined acceptance theorem, bridges to previous relevant formalizations, and a separate OPE check. Its historical evidence records what was built and which Comparator checks were run, including their limitations.

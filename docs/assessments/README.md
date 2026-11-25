@@ -1,8 +1,11 @@
 # Assessments
 
+Updated 25 November 2026.
+
 | Assessment | Submission | Document |
 |---|---|---|
-| 1 | OpenAI, 28 October 2026 | [Assessment dated 10 November 2026 (PDF)](../assessment-1.pdf) |
+| 1 | OpenAI, 27 October 2026 | [Assessment dated 10 November 2026 (PDF)](../assessment-1.pdf) |
+| November | OpenAI, 4 November 2026 | [Final assessment dated 25 November 2026](https://github.com/yang-mills-group/submissions/blob/main/docs/assessments/november-4-assessment.pdf) |
 
 The assessment explains the results and their validation. The [check scope](../../submissions/openai-20261028/docs/checks.md) and [evidence record](../../submissions/openai-20261028/evidence/README.md) identify the formal targets and verification runs.
 
