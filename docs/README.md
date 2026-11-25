@@ -1,6 +1,6 @@
 # Reading the results and checks
 
-Start with the [assessment of the October submission](assessment-1.pdf). Part I explains the construction and its mathematical claims; Part II explains verification, validation and the independent checks. The [assessment index](assessments/README.md) also links the final November assessment dated 25 November 2026 and its supporting reports.
+Start with the [assessment of the October submission](assessment-1.pdf). Part I explains the construction and its mathematical claims; Part II explains verification, validation and the independent checks. The [assessment index](assessments/README.md) also links the November summary dated 25 November 2026 and its AI-generated initial draft reports.
 
 For a reader familiar with Yang–Mills theory and Lean, the following route connects the assessment to the formal statements and their evidence:
 

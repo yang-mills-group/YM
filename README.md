@@ -8,12 +8,12 @@ Each submission has a complete package containing the original source, our check
 
 ## Results and assessments
 
-Updated 25 November 2026. Submission dates follow the [correspondence record](https://github.com/yang-mills-group/submissions/blob/main/docs/submission-dates.md); the October archive retains its original filename date.
+Updated 25 November 2026. Submission dates record [when the group received the materials](https://github.com/yang-mills-group/submissions/blob/main/docs/submission-dates.md); the October archive retains its original filename date.
 
 | Submission | Assessment | Formal checks and evidence |
 |---|---|---|
 | [OpenAI, 27 October 2026](submissions/openai-20261028/README.md) | [Assessment 1 (PDF)](docs/assessment-1.pdf) | [Check scope](submissions/openai-20261028/docs/checks.md) · [dated results](submissions/openai-20261028/evidence/README.md) · [rerun instructions](submissions/openai-20261028/docs/rerun.md) |
-| [OpenAI, 4 November 2026](https://github.com/yang-mills-group/OpenAI-YM-20261104) | [Final November assessment, 25 November 2026](https://github.com/yang-mills-group/submissions/blob/main/docs/assessments/november-4-assessment.pdf) | [Detailed reports and checks](https://github.com/yang-mills-group/submissions/tree/main/reviews/openai-20261104) |
+| [OpenAI, 4 November 2026](https://github.com/yang-mills-group/OpenAI-YM-20261104) | [November summary, 25 November 2026](https://github.com/yang-mills-group/submissions/blob/main/docs/assessments/november-4-assessment.pdf) | [Verification records and AI-generated initial draft reports](https://github.com/yang-mills-group/submissions/tree/main/reviews/openai-20261104) |
 | Alpöge and Sussman, 15 November 2026 | work in progress | — |
 
 The October package includes the original Lean sources, the combined acceptance theorem, bridges to previous relevant formalizations, and a separate OPE check. Its historical evidence records what was built and which Comparator checks were run, including their limitations.
